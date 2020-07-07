@@ -1,0 +1,5 @@
+.hero{
+  padding: var(--spacingx3) 0px;
+  border-top: 1px solid var(--colorClearRGBA);
+  text-align: center;
+}

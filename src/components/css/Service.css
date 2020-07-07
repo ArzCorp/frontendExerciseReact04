@@ -1,0 +1,28 @@
+.service{
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--colorClearRGBA);
+  padding: var(--spacingx3) 0px;
+  text-align: left;
+}
+
+.service__card{
+  width: 250px;
+  border: 1px solid var(--colorClearRGBA);
+  margin: 0px var(--spacing);
+  background-color: white;
+}
+
+.service__card img{
+  width: 100%;
+}
+
+.service__card h2{
+  padding: var(--spacing) 0px;
+  margin: 0px var(--spacingx3);
+  border-bottom: 1px solid var(--colorClear);
+}
+
+.service__card p{
+  padding: var(--spacingx2) var(--spacingx3) var(--spacingMax) var(--spacingx3);
+}
