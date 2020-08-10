@@ -47,3 +47,21 @@
 .service__list a:hover {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 720px) {
+  .information {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .information {
+    display: block;
+    padding: 0px var(--spacing);
+  }
+
+  .article {
+    margin-bottom: var(--spacing);
+    padding: 0px var(--spacing);
+  }
+}

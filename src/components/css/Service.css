@@ -26,3 +26,21 @@
 .service__card p{
   padding: var(--spacingx2) var(--spacingx3) var(--spacingMax) var(--spacingx3);
 }
+
+@media screen and (max-width: 720px) {
+  .service {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .service__card {
+    margin-bottom: var(--spacing);
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .service {
+    flex-direction: column;
+    align-items: center;
+  }
+}

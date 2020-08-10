@@ -3,3 +3,17 @@
   border-top: 1px solid var(--colorClearRGBA);
   text-align: center;
 }
+
+@media screen and (max-width: 720px) {
+  .hero {
+    display: block;
+    padding: var(--spacing) var(--spacing);
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .hero {
+    display: block;
+    padding: var(--spacing) var(--spacing);
+  }
+}

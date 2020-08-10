@@ -9,3 +9,23 @@ header{
 .header__navbar{
   display: flex;
 }
+
+@media screen and (max-width: 720px) {
+  header {
+    flex-direction: column;
+  }
+
+  .header__navbar {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  header {
+    flex-direction: column;
+  }
+
+  .header__navbar {
+    flex-direction: column;
+  }
+}

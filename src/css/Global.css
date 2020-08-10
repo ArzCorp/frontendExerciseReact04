@@ -67,6 +67,7 @@ p{
   margin: 0px auto;
   display: inherit;
   justify-content: inherit;
+  flex-direction: inherit;
   align-items: inherit;
 }
 
@@ -114,5 +115,22 @@ p{
 
 .color-secondary{
   color: var(--colorSecundary)
+}
+
+@media screen and (max-width: 720px) {
+  .container {
+    width: 720px;
+  }
+
+  .button-article {
+    position: initial;
+    margin: 0px auto;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .container {
+    width: 360px;
+  }
 }
 
