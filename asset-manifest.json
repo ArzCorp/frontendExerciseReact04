@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendExerciseReact04/static/css/main.e0656427.chunk.css",
+    "main.js": "/frontendExerciseReact04/static/js/main.fede66cf.chunk.js",
+    "main.js.map": "/frontendExerciseReact04/static/js/main.fede66cf.chunk.js.map",
+    "runtime-main.js": "/frontendExerciseReact04/static/js/runtime-main.a98ea115.js",
+    "runtime-main.js.map": "/frontendExerciseReact04/static/js/runtime-main.a98ea115.js.map",
+    "static/js/2.05840ac8.chunk.js": "/frontendExerciseReact04/static/js/2.05840ac8.chunk.js",
+    "static/js/2.05840ac8.chunk.js.map": "/frontendExerciseReact04/static/js/2.05840ac8.chunk.js.map",
+    "index.html": "/frontendExerciseReact04/index.html",
+    "precache-manifest.4eedeb175d962cdef4e96e4b900bc911.js": "/frontendExerciseReact04/precache-manifest.4eedeb175d962cdef4e96e4b900bc911.js",
+    "service-worker.js": "/frontendExerciseReact04/service-worker.js",
+    "static/css/main.e0656427.chunk.css.map": "/frontendExerciseReact04/static/css/main.e0656427.chunk.css.map",
+    "static/js/2.05840ac8.chunk.js.LICENSE.txt": "/frontendExerciseReact04/static/js/2.05840ac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a98ea115.js",
+    "static/js/2.05840ac8.chunk.js",
+    "static/css/main.e0656427.chunk.css",
+    "static/js/main.fede66cf.chunk.js"
+  ]
+}
